@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>beer_frame_1x1</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{126, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{126, 104}</string>
+			<key>textureRect</key>
+			<string>{{165, 333},{126, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bread_frame_1x1</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{126, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{126, 104}</string>
+			<key>textureRect</key>
+			<string>{{151, 611},{126, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>clover_frame_1x1</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{126, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{126, 104}</string>
+			<key>textureRect</key>
+			<string>{{247, 461},{126, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>h_beer</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{144, 160}</string>
+			<key>spriteSourceSize</key>
+			<string>{144, 160}</string>
+			<key>textureRect</key>
+			<string>{{1, 469},{144, 160}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>h_bread</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{148, 128}</string>
+			<key>spriteSourceSize</key>
+			<string>{148, 128}</string>
+			<key>textureRect</key>
+			<string>{{1, 631},{148, 128}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>h_clover</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{148, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{148, 162}</string>
+			<key>textureRect</key>
+			<string>{{1, 319},{148, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>h_hat</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{160, 190}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 190}</string>
+			<key>textureRect</key>
+			<string>{{1, 1},{160, 190}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>h_horseshoe</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{154, 170}</string>
+			<key>spriteSourceSize</key>
+			<string>{154, 170}</string>
+			<key>textureRect</key>
+			<string>{{1, 163},{154, 170}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>h_pipe</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{148, 190}</string>
+			<key>spriteSourceSize</key>
+			<string>{148, 190}</string>
+			<key>textureRect</key>
+			<string>{{193, 1},{148, 190}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hat_frame_1x1</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{126, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{126, 104}</string>
+			<key>textureRect</key>
+			<string>{{271, 333},{126, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>horseshoe_frame_1x1</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{126, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{126, 104}</string>
+			<key>textureRect</key>
+			<string>{{377, 387},{126, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>l_10</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{140, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{140, 98}</string>
+			<key>textureRect</key>
+			<string>{{147, 469},{140, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>l_a</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{116, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 106}</string>
+			<key>textureRect</key>
+			<string>{{385, 1},{116, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>l_j</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{52, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{52, 112}</string>
+			<key>textureRect</key>
+			<string>{{377, 333},{52, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>l_k</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{116, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{116, 112}</string>
+			<key>textureRect</key>
+			<string>{{377, 219},{116, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>l_q</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{98, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 106}</string>
+			<key>textureRect</key>
+			<string>{{385, 119},{98, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>low_frame_1x1</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{126, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{126, 104}</string>
+			<key>textureRect</key>
+			<string>{{353, 515},{126, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>pipe_frame_1x1</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{126, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{126, 104}</string>
+			<key>textureRect</key>
+			<string>{{257, 621},{126, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>s_scatter</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{182, 180}</string>
+			<key>spriteSourceSize</key>
+			<string>{182, 180}</string>
+			<key>textureRect</key>
+			<string>{{193, 151},{182, 180}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>3fql6zv29AIrG6Z57u5mZj</string>
+		<key>textureFileName</key>
+		<string>3fql6zv29AIrG6Z57u5mZj</string>
+	</dict>
+</dict>
+</plist>

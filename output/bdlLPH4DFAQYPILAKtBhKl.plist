@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>beer_frame_1x2_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 182}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 182}</string>
+			<key>textureRect</key>
+			<string>{{1, 1},{96, 182}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>beer_frame_1x3_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 256}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 256}</string>
+			<key>textureRect</key>
+			<string>{{185, 1},{96, 256}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>beer_frame_1x4_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 330}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 330}</string>
+			<key>textureRect</key>
+			<string>{{443, 1},{96, 330}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bread_frame_1x2_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 182}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 182}</string>
+			<key>textureRect</key>
+			<string>{{775, 1},{96, 182}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bread_frame_1x3_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 256}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 256}</string>
+			<key>textureRect</key>
+			<string>{{1, 99},{96, 256}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bread_frame_1x4_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 330}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 330}</string>
+			<key>textureRect</key>
+			<string>{{259, 99},{96, 330}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>clover_frame_1x2_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 182}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 182}</string>
+			<key>textureRect</key>
+			<string>{{591, 99},{96, 182}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>clover_frame_1x3_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 256}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 256}</string>
+			<key>textureRect</key>
+			<string>{{1, 197},{96, 256}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>clover_frame_1x4_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 330}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 330}</string>
+			<key>textureRect</key>
+			<string>{{259, 197},{96, 330}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hat_frame_1x2_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 182}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 182}</string>
+			<key>textureRect</key>
+			<string>{{775, 99},{96, 182}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hat_frame_1x3_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 256}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 256}</string>
+			<key>textureRect</key>
+			<string>{{591, 197},{96, 256}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hat_frame_1x4_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 330}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 330}</string>
+			<key>textureRect</key>
+			<string>{{1, 295},{96, 330}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>horseshoe_frame_1x2_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 182}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 182}</string>
+			<key>textureRect</key>
+			<string>{{849, 197},{96, 182}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>horseshoe_frame_1x3_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 256}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 256}</string>
+			<key>textureRect</key>
+			<string>{{333, 295},{96, 256}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>horseshoe_frame_1x4_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 330}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 330}</string>
+			<key>textureRect</key>
+			<string>{{1, 393},{96, 330}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>pipe_frame_1x2_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 182}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 182}</string>
+			<key>textureRect</key>
+			<string>{{591, 295},{96, 182}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>pipe_frame_1x3_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 256}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 256}</string>
+			<key>textureRect</key>
+			<string>{{333, 393},{96, 256}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>pipe_frame_1x4_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 330}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 330}</string>
+			<key>textureRect</key>
+			<string>{{591, 393},{96, 330}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>bdlLPH4DFAQYPILAKtBhKl</string>
+		<key>textureFileName</key>
+		<string>bdlLPH4DFAQYPILAKtBhKl</string>
+	</dict>
+</dict>
+</plist>

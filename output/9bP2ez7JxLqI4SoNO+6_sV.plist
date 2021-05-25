@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>info1</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{1168, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{1168, 74}</string>
+			<key>textureRect</key>
+			<string>{{1, 1},{1168, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>info2</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{1308, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{1308, 58}</string>
+			<key>textureRect</key>
+			<string>{{1, 77},{1308, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>info3</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{598, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{598, 60}</string>
+			<key>textureRect</key>
+			<string>{{1171, 1},{598, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>info4</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{918, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{918, 74}</string>
+			<key>textureRect</key>
+			<string>{{1, 137},{918, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>info5</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{968, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{968, 58}</string>
+			<key>textureRect</key>
+			<string>{{921, 137},{968, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>9bP2ez7JxLqI4SoNO+6/sV</string>
+		<key>textureFileName</key>
+		<string>9bP2ez7JxLqI4SoNO+6/sV</string>
+	</dict>
+</dict>
+</plist>

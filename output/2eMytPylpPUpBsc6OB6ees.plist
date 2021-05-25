@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>popup_01</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{250, 120}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 120}</string>
+			<key>textureRect</key>
+			<string>{{1, 992},{250, 120}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>popup_02</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{250, 223}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 223}</string>
+			<key>textureRect</key>
+			<string>{{1, 767},{250, 223}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>popup_03</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{250, 328}</string>
+			<key>spriteSourceSize</key>
+			<string>{250, 328}</string>
+			<key>textureRect</key>
+			<string>{{1, 437},{250, 328}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>popup_04</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{253, 434}</string>
+			<key>spriteSourceSize</key>
+			<string>{253, 434}</string>
+			<key>textureRect</key>
+			<string>{{1, 1},{253, 434}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>2eMytPylpPUpBsc6OB6ees</string>
+		<key>textureFileName</key>
+		<string>2eMytPylpPUpBsc6OB6ees</string>
+	</dict>
+</dict>
+</plist>

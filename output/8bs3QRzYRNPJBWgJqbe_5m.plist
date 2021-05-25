@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>0</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{120, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 134}</string>
+			<key>textureRect</key>
+			<string>{{174, 1},{120, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>1</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{67, 135}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 135}</string>
+			<key>textureRect</key>
+			<string>{{105, 1},{67, 135}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{102, 135}</string>
+			<key>spriteSourceSize</key>
+			<string>{102, 135}</string>
+			<key>textureRect</key>
+			<string>{{1, 1},{102, 135}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{111, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{111, 134}</string>
+			<key>textureRect</key>
+			<string>{{135, 138},{111, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{118, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 134}</string>
+			<key>textureRect</key>
+			<string>{{271, 137},{118, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{107, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{107, 134}</string>
+			<key>textureRect</key>
+			<string>{{407, 1},{107, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{109, 133}</string>
+			<key>spriteSourceSize</key>
+			<string>{109, 133}</string>
+			<key>textureRect</key>
+			<string>{{407, 137},{109, 133}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{99, 133}</string>
+			<key>spriteSourceSize</key>
+			<string>{99, 133}</string>
+			<key>textureRect</key>
+			<string>{{516, 1},{99, 133}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{114, 132}</string>
+			<key>spriteSourceSize</key>
+			<string>{114, 132}</string>
+			<key>textureRect</key>
+			<string>{{1, 138},{114, 132}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{109, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{109, 134}</string>
+			<key>textureRect</key>
+			<string>{{296, 1},{109, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>comma</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{41, 65}</string>
+			<key>spriteSourceSize</key>
+			<string>{41, 65}</string>
+			<key>textureRect</key>
+			<string>{{542, 136},{41, 65}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>dot</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{41, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{41, 51}</string>
+			<key>textureRect</key>
+			<string>{{542, 203},{41, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>8bs3QRzYRNPJBWgJqbe/5m</string>
+		<key>textureFileName</key>
+		<string>8bs3QRzYRNPJBWgJqbe/5m</string>
+	</dict>
+</dict>
+</plist>

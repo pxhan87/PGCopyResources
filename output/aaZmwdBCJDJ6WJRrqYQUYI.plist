@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bw_rainbow_00</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{1, 505},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_01</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{1, 1007},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_02</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{327, 1},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_03</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{829, 1},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_08</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 502}</string>
+			<key>textureRect</key>
+			<string>{{1, 1},{324, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_09</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{1331, 1},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_10</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{327, 327},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_11</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{829, 327},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_16</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{1, 505},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_17</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{1331, 503},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_18</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{327, 1005},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_19</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{327, 653},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_20</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{829, 653},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_25</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{653, 979},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_26</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{1155, 1005},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_27</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{653, 1305},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_28</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{1155, 1331},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>aaZmwdBCJDJ6WJRrqYQUYI</string>
+		<key>textureFileName</key>
+		<string>aaZmwdBCJDJ6WJRrqYQUYI</string>
+	</dict>
+</dict>
+</plist>

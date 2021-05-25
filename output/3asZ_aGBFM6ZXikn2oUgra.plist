@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bw_vfx_c_00</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{3, 3}</string>
+			<key>spriteSourceSize</key>
+			<string>{3, 3}</string>
+			<key>textureRect</key>
+			<string>{{913, 1},{3, 3}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_c_01</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{100, 101}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 101}</string>
+			<key>textureRect</key>
+			<string>{{733, 184},{100, 101}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_c_02</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{178, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{178, 181}</string>
+			<key>textureRect</key>
+			<string>{{733, 1},{178, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_c_03</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{232, 243}</string>
+			<key>spriteSourceSize</key>
+			<string>{232, 243}</string>
+			<key>textureRect</key>
+			<string>{{631, 678},{232, 243}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_c_04</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{274, 289}</string>
+			<key>spriteSourceSize</key>
+			<string>{274, 289}</string>
+			<key>textureRect</key>
+			<string>{{631, 402},{274, 289}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_c_05</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{302, 323}</string>
+			<key>spriteSourceSize</key>
+			<string>{302, 323}</string>
+			<key>textureRect</key>
+			<string>{{327, 406},{302, 323}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_c_06</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 349}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 349}</string>
+			<key>textureRect</key>
+			<string>{{1, 406},{324, 349}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_c_09</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{366, 399}</string>
+			<key>spriteSourceSize</key>
+			<string>{366, 399}</string>
+			<key>textureRect</key>
+			<string>{{365, 1},{366, 399}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_c_11</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{362, 403}</string>
+			<key>spriteSourceSize</key>
+			<string>{362, 403}</string>
+			<key>textureRect</key>
+			<string>{{1, 1},{362, 403}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_c_16</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{3, 3}</string>
+			<key>spriteSourceSize</key>
+			<string>{3, 3}</string>
+			<key>textureRect</key>
+			<string>{{913, 1},{3, 3}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>3asZ/aGBFM6ZXikn2oUgra</string>
+		<key>textureFileName</key>
+		<string>3asZ/aGBFM6ZXikn2oUgra</string>
+	</dict>
+</dict>
+</plist>

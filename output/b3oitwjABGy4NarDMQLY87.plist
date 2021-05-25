@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>loading_circle_frame</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{199, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{199, 199}</string>
+			<key>textureRect</key>
+			<string>{{0, 0},{199, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>b3oitwjABGy4NarDMQLY87</string>
+		<key>textureFileName</key>
+		<string>b3oitwjABGy4NarDMQLY87</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,259 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bw_coin_10",
+      "texture": "1aw1/QemlEvLiaAAADWBz0",
+      "rect": [317, 151, 156, 148],
+      "offset": [0, 1],
+      "originalSize": [280, 280],
+      "capInsets": [0, 0, 0, 0]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "coin_spinning",
+    "_duration": 0.875,
+    "sample": 16,
+    "wrapMode": "2",
+    "curveData": {
+      "comps": {
+        "cc.Sprite": {
+          "spriteFrame": [
+            { "frame": 0, "value": { "__uuid__": "4fTpqQOcRBibg1H0t3ia1a" } },
+            {
+              "frame": 0.0625,
+              "value": { "__uuid__": "77xlSBEHNErICeL4UXkqYL" }
+            },
+            {
+              "frame": 0.125,
+              "value": { "__uuid__": "e3vbTyu3VCWZAxrAhTgi2p" }
+            },
+            {
+              "frame": 0.1875,
+              "value": { "__uuid__": "6bbnv8VvBBlI1nnf3wumo6" }
+            },
+            {
+              "frame": 0.25,
+              "value": { "__uuid__": "f88sidveBLzKOeWTrIO0Ty" }
+            },
+            {
+              "frame": 0.3125,
+              "value": { "__uuid__": "8ddVx34zNMprpKIlY7RYBm" }
+            },
+            {
+              "frame": 0.375,
+              "value": { "__uuid__": "63UoGT9i1N84J5y1sHHXPd" }
+            },
+            {
+              "frame": 0.4375,
+              "value": { "__uuid__": "80/MTjLHtAUaTz+nE4jnNw" }
+            },
+            { "frame": 0.5, "value": { "__uuid__": "e9+0fwmQBI2JP5YZPesR+A" } },
+            {
+              "frame": 0.5625,
+              "value": { "__uuid__": "66ve5bVKlDRIynx9SBuUcz" }
+            },
+            {
+              "frame": 0.625,
+              "value": { "__uuid__": "2cRNjs6ENC7r4rS5LKyUcN" }
+            },
+            {
+              "frame": 0.6875,
+              "value": { "__uuid__": "af1zKUappGTJIABgXEIB2H" }
+            },
+            {
+              "frame": 0.75,
+              "value": { "__uuid__": "94MY2NLmBPNo8kwtah/hkY" }
+            },
+            {
+              "frame": 0.8125,
+              "value": { "__uuid__": "4fTpqQOcRBibg1H0t3ia1a" }
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bw_coin_00",
+      "texture": "1aw1/QemlEvLiaAAADWBz0",
+      "rect": [317, 1, 156, 148],
+      "offset": [0, 1],
+      "originalSize": [280, 280],
+      "capInsets": [0, 0, 0, 0]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bw_coin_06",
+      "texture": "1aw1/QemlEvLiaAAADWBz0",
+      "rect": [159, 161, 156, 152],
+      "offset": [0, 1],
+      "originalSize": [280, 280],
+      "capInsets": [0, 0, 0, 0]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bw_coin_09",
+      "texture": "1aw1/QemlEvLiaAAADWBz0",
+      "rect": [317, 431, 156, 128],
+      "offset": [0, 2],
+      "originalSize": [280, 280],
+      "capInsets": [0, 0, 0, 0]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bw_coin_03",
+      "texture": "1aw1/QemlEvLiaAAADWBz0",
+      "rect": [159, 455, 156, 116],
+      "offset": [0, 1],
+      "originalSize": [280, 280],
+      "capInsets": [0, 0, 0, 0]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bw_coin_01",
+      "texture": "1aw1/QemlEvLiaAAADWBz0",
+      "rect": [317, 301, 156, 128],
+      "offset": [0, 1],
+      "originalSize": [280, 280],
+      "capInsets": [0, 0, 0, 0]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bw_coin_07",
+      "texture": "1aw1/QemlEvLiaAAADWBz0",
+      "rect": [159, 315, 156, 138],
+      "offset": [0, 1],
+      "originalSize": [280, 280],
+      "capInsets": [0, 0, 0, 0]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "bw_coin.plist",
+    "_spriteFrames": {
+      "bw_coin_00": { "__uuid__": "4fTpqQOcRBibg1H0t3ia1a" },
+      "bw_coin_01": { "__uuid__": "77xlSBEHNErICeL4UXkqYL" },
+      "bw_coin_02": { "__uuid__": "e3vbTyu3VCWZAxrAhTgi2p" },
+      "bw_coin_03": { "__uuid__": "6bbnv8VvBBlI1nnf3wumo6" },
+      "bw_coin_04": { "__uuid__": "f88sidveBLzKOeWTrIO0Ty" },
+      "bw_coin_05": { "__uuid__": "8ddVx34zNMprpKIlY7RYBm" },
+      "bw_coin_06": { "__uuid__": "63UoGT9i1N84J5y1sHHXPd" },
+      "bw_coin_07": { "__uuid__": "80/MTjLHtAUaTz+nE4jnNw" },
+      "bw_coin_08": { "__uuid__": "e9+0fwmQBI2JP5YZPesR+A" },
+      "bw_coin_09": { "__uuid__": "66ve5bVKlDRIynx9SBuUcz" },
+      "bw_coin_10": { "__uuid__": "2cRNjs6ENC7r4rS5LKyUcN" },
+      "bw_coin_11": { "__uuid__": "af1zKUappGTJIABgXEIB2H" },
+      "bw_coin_12": { "__uuid__": "94MY2NLmBPNo8kwtah/hkY" }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bw_coin_05",
+      "texture": "1aw1/QemlEvLiaAAADWBz0",
+      "rect": [1, 1, 156, 158],
+      "offset": [0, 1],
+      "originalSize": [280, 280],
+      "capInsets": [0, 0, 0, 0]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bw_coin_12",
+      "texture": "1aw1/QemlEvLiaAAADWBz0",
+      "rect": [159, 1, 156, 158],
+      "offset": [0, 1],
+      "originalSize": [280, 280],
+      "capInsets": [0, 0, 0, 0]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bw_coin_11",
+      "texture": "1aw1/QemlEvLiaAAADWBz0",
+      "rect": [1, 161, 156, 158],
+      "offset": [0, 1],
+      "originalSize": [280, 280],
+      "capInsets": [0, 0, 0, 0]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "coin_spinning_effect",
+      "data": { "__id__": 1 }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "coin_spinning_effect",
+      "_level": 1,
+      "_components": [
+        { "__type__": "cc.Sprite", "node": { "__id__": 1 } },
+        {
+          "__type__": "cc.Animation",
+          "node": { "__id__": 1 },
+          "_defaultClip": { "__uuid__": "498nZDgg1KnarnwsKPNW/+" },
+          "_clips": [{ "__uuid__": "498nZDgg1KnarnwsKPNW/+" }]
+        },
+        { "__type__": "90167wb5w5JpKAkqWQq6cj8", "node": { "__id__": 1 } }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": { "__id__": 1 },
+        "asset": { "__uuid__": "d94AjgDMBGsYVdfSADgroD" },
+        "fileId": "15qZwPz2FOB6u9Kb/Vs+vO"
+      },
+      "_position": { "__type__": "cc.Vec3", "y": 116 }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bw_coin_02",
+      "texture": "1aw1/QemlEvLiaAAADWBz0",
+      "rect": [1, 475, 156, 96],
+      "offset": [0, 1],
+      "originalSize": [280, 280],
+      "capInsets": [0, 0, 0, 0]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bw_coin_08",
+      "texture": "1aw1/QemlEvLiaAAADWBz0",
+      "rect": [475, 1, 154, 96],
+      "offset": [0, 1],
+      "originalSize": [280, 280],
+      "rotated": 1,
+      "capInsets": [0, 0, 0, 0]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bw_coin_04",
+      "texture": "1aw1/QemlEvLiaAAADWBz0",
+      "rect": [1, 321, 156, 152],
+      "offset": [0, 1],
+      "originalSize": [280, 280],
+      "capInsets": [0, 0, 0, 0]
+    }
+  }
+]

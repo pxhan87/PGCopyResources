@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>infoboard_lv1_vfx_d_horizontal_00</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{346, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{346, 35}</string>
+			<key>textureRect</key>
+			<string>{{1, 1},{346, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>infoboard_lv1_vfx_d_horizontal_01</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{346, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{346, 35}</string>
+			<key>textureRect</key>
+			<string>{{1, 38},{346, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>infoboard_lv1_vfx_d_horizontal_02</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{346, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{346, 35}</string>
+			<key>textureRect</key>
+			<string>{{1, 75},{346, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>infoboard_lv1_vfx_d_horizontal_03</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{346, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{346, 35}</string>
+			<key>textureRect</key>
+			<string>{{1, 112},{346, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>infoboard_lv1_vfx_d_horizontal_04</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{346, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{346, 35}</string>
+			<key>textureRect</key>
+			<string>{{1, 149},{346, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>infoboard_lv1_vfx_d_horizontal_05</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{346, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{346, 35}</string>
+			<key>textureRect</key>
+			<string>{{1, 186},{346, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>infoboard_lv1_vfx_d_horizontal_06</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{346, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{346, 35}</string>
+			<key>textureRect</key>
+			<string>{{1, 223},{346, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>infoboard_lv1_vfx_d_horizontal_07</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{346, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{346, 35}</string>
+			<key>textureRect</key>
+			<string>{{1, 260},{346, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>infoboard_lv1_vfx_d_horizontal_08</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{346, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{346, 35}</string>
+			<key>textureRect</key>
+			<string>{{1, 297},{346, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>infoboard_lv1_vfx_d_horizontal_09</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{346, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{346, 35}</string>
+			<key>textureRect</key>
+			<string>{{1, 334},{346, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>infoboard_lv1_vfx_d_horizontal_10</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{346, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{346, 35}</string>
+			<key>textureRect</key>
+			<string>{{349, 1},{346, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>infoboard_lv1_vfx_d_horizontal_11</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{346, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{346, 35}</string>
+			<key>textureRect</key>
+			<string>{{1, 371},{346, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>infoboard_lv1_vfx_d_horizontal_12</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{346, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{346, 35}</string>
+			<key>textureRect</key>
+			<string>{{386, 1},{346, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>infoboard_lv1_vfx_d_horizontal_13</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{346, 33}</string>
+			<key>spriteSourceSize</key>
+			<string>{346, 33}</string>
+			<key>textureRect</key>
+			<string>{{1, 408},{346, 33}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>infoboard_lv1_vfx_d_horizontal_14</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{346, 33}</string>
+			<key>spriteSourceSize</key>
+			<string>{346, 33}</string>
+			<key>textureRect</key>
+			<string>{{423, 1},{346, 33}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>infoboard_lv1_vfx_d_horizontal_15</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{336, 31}</string>
+			<key>spriteSourceSize</key>
+			<string>{336, 31}</string>
+			<key>textureRect</key>
+			<string>{{1, 443},{336, 31}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>infoboard_lv1_vfx_d_horizontal_16</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{336, 31}</string>
+			<key>spriteSourceSize</key>
+			<string>{336, 31}</string>
+			<key>textureRect</key>
+			<string>{{458, 1},{336, 31}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>infoboard_lv1_vfx_d_horizontal_17</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{310, 29}</string>
+			<key>spriteSourceSize</key>
+			<string>{310, 29}</string>
+			<key>textureRect</key>
+			<string>{{1, 476},{310, 29}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>5ahP5XhlBKpJfxODsx6Rmw</string>
+		<key>textureFileName</key>
+		<string>5ahP5XhlBKpJfxODsx6Rmw</string>
+	</dict>
+</dict>
+</plist>

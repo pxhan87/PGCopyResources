@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>auto_arrow</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{66, 63}</string>
+			<key>spriteSourceSize</key>
+			<string>{66, 63}</string>
+			<key>textureRect</key>
+			<string>{{1, 1443},{66, 63}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>auto_shadow</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{70, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{70, 70}</string>
+			<key>textureRect</key>
+			<string>{{111, 1097},{70, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>btn_add</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{108, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{108, 108}</string>
+			<key>textureRect</key>
+			<string>{{6, 123},{108, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>btn_menu</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{90, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 90}</string>
+			<key>textureRect</key>
+			<string>{{111, 563},{90, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>btn_minus</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{108, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{108, 108}</string>
+			<key>textureRect</key>
+			<string>{{128, 1},{108, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>center_autoplay</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{90, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 90}</string>
+			<key>textureRect</key>
+			<string>{{111, 747},{90, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>center_turbo_off</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{90, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 90}</string>
+			<key>textureRect</key>
+			<string>{{111, 839},{90, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>center_turbo_on</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{90, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{90, 90}</string>
+			<key>textureRect</key>
+			<string>{{111, 931},{90, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>ic_chip</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{60, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 60}</string>
+			<key>textureRect</key>
+			<string>{{185, 1023},{60, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>ic_coupon</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{60, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 60}</string>
+			<key>textureRect</key>
+			<string>{{185, 1085},{60, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>ic_exit</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{108, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{108, 108}</string>
+			<key>textureRect</key>
+			<string>{{1, 343},{108, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>ic_free_game</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{60, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 60}</string>
+			<key>textureRect</key>
+			<string>{{183, 1147},{60, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>ic_paytable</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{108, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{108, 108}</string>
+			<key>textureRect</key>
+			<string>{{1, 1113},{108, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>ic_rollover</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{60, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 60}</string>
+			<key>textureRect</key>
+			<string>{{183, 1209},{60, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>ic_rule</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{108, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{108, 108}</string>
+			<key>textureRect</key>
+			<string>{{1, 1223},{108, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>ic_smartbot</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{108, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{108, 108}</string>
+			<key>textureRect</key>
+			<string>{{142, 111},{108, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>ic_soundoff</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{108, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{108, 108}</string>
+			<key>textureRect</key>
+			<string>{{142, 221},{108, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>ic_soundon</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{108, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{108, 108}</string>
+			<key>textureRect</key>
+			<string>{{111, 343},{108, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>ic_spin</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{60, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 60}</string>
+			<key>textureRect</key>
+			<string>{{173, 1271},{60, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>ic_wallet_open</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{60, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 60}</string>
+			<key>textureRect</key>
+			<string>{{173, 1333},{60, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>setting_info_footer_bg</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{3, 305}</string>
+			<key>spriteSourceSize</key>
+			<string>{3, 305}</string>
+			<key>textureRect</key>
+			<string>{{1, 1},{3, 305}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>turbo_shadow</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{70, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{70, 70}</string>
+			<key>textureRect</key>
+			<string>{{111, 1169},{70, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>wallet_notification</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{18, 18}</string>
+			<key>spriteSourceSize</key>
+			<string>{18, 18}</string>
+			<key>textureRect</key>
+			<string>{{203, 713},{18, 18}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>755QemO8VKoYn/j8Mchu8M</string>
+		<key>textureFileName</key>
+		<string>755QemO8VKoYn/j8Mchu8M</string>
+	</dict>
+</dict>
+</plist>

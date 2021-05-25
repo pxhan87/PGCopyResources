@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>infoboard_vfx_c</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{55, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{55, 76}</string>
+			<key>textureRect</key>
+			<string>{{4, 2},{55, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>6afMfjWCBAH4oxWb7NODxQ</string>
+		<key>textureFileName</key>
+		<string>6afMfjWCBAH4oxWb7NODxQ</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>spin_arrow</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{185, 184}</string>
+			<key>spriteSourceSize</key>
+			<string>{185, 184}</string>
+			<key>textureRect</key>
+			<string>{{13, 12},{185, 184}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>9anSqstI1DMoS53o/b4Chd</string>
+		<key>textureFileName</key>
+		<string>9anSqstI1DMoS53o/b4Chd</string>
+	</dict>
+</dict>
+</plist>

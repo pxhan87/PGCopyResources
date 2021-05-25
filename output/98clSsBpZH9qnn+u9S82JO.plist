@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>1x1_s_wild</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{137, 147}</string>
+			<key>spriteSourceSize</key>
+			<string>{137, 147}</string>
+			<key>textureRect</key>
+			<string>{{1, 1},{137, 147}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>1x1_s_wild_blur</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{100, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{100, 108}</string>
+			<key>textureRect</key>
+			<string>{{1, 150},{100, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>98clSsBpZH9qnn+u9S82JO</string>
+		<key>textureFileName</key>
+		<string>98clSsBpZH9qnn+u9S82JO</string>
+	</dict>
+</dict>
+</plist>

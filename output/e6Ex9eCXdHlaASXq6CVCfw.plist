@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bw_vfx_b_07</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{432, 570}</string>
+			<key>spriteSourceSize</key>
+			<string>{432, 570}</string>
+			<key>textureRect</key>
+			<string>{{1221, 1},{432, 570}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_b_08</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{432, 594}</string>
+			<key>spriteSourceSize</key>
+			<string>{432, 594}</string>
+			<key>textureRect</key>
+			<string>{{609, 789},{432, 594}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_b_09</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{432, 578}</string>
+			<key>spriteSourceSize</key>
+			<string>{432, 578}</string>
+			<key>textureRect</key>
+			<string>{{1, 1187},{432, 578}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_b_13</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{414, 616}</string>
+			<key>spriteSourceSize</key>
+			<string>{414, 616}</string>
+			<key>textureRect</key>
+			<string>{{581, 1223},{414, 616}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_b_16</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{414, 608}</string>
+			<key>spriteSourceSize</key>
+			<string>{414, 608}</string>
+			<key>textureRect</key>
+			<string>{{1205, 833},{414, 608}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_b_17</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{414, 612}</string>
+			<key>spriteSourceSize</key>
+			<string>{414, 612}</string>
+			<key>textureRect</key>
+			<string>{{1199, 1249},{414, 612}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_b_20</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{396, 606}</string>
+			<key>spriteSourceSize</key>
+			<string>{396, 606}</string>
+			<key>textureRect</key>
+			<string>{{597, 391},{396, 606}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_b_21</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{396, 606}</string>
+			<key>spriteSourceSize</key>
+			<string>{396, 606}</string>
+			<key>textureRect</key>
+			<string>{{1205, 435},{396, 606}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_b_22</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{396, 606}</string>
+			<key>spriteSourceSize</key>
+			<string>{396, 606}</string>
+			<key>textureRect</key>
+			<string>{{1, 789},{396, 606}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_b_23</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{386, 608}</string>
+			<key>spriteSourceSize</key>
+			<string>{386, 608}</string>
+			<key>textureRect</key>
+			<string>{{1, 1},{386, 608}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_b_24</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{388, 608}</string>
+			<key>spriteSourceSize</key>
+			<string>{388, 608}</string>
+			<key>textureRect</key>
+			<string>{{611, 1},{388, 608}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_vfx_b_25</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{388, 594}</string>
+			<key>spriteSourceSize</key>
+			<string>{388, 594}</string>
+			<key>textureRect</key>
+			<string>{{1, 389},{388, 594}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>e6Ex9eCXdHlaASXq6CVCfw</string>
+		<key>textureFileName</key>
+		<string>e6Ex9eCXdHlaASXq6CVCfw</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bg_corner4</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{66, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{66, 66}</string>
+			<key>textureRect</key>
+			<string>{{99, 87},{66, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bg_corner7</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{66, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{66, 66}</string>
+			<key>textureRect</key>
+			<string>{{1, 99},{66, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bg_round</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{96, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{96, 96}</string>
+			<key>textureRect</key>
+			<string>{{1, 1},{96, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>border_stroke</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{60, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 60}</string>
+			<key>textureRect</key>
+			<string>{{69, 155},{60, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>btn_close</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{34, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{34, 34}</string>
+			<key>textureRect</key>
+			<string>{{1, 167},{34, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>btn_corner5</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{60, 60}</string>
+			<key>spriteSourceSize</key>
+			<string>{60, 60}</string>
+			<key>textureRect</key>
+			<string>{{131, 155},{60, 60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>btn_round</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{84, 84}</string>
+			<key>spriteSourceSize</key>
+			<string>{84, 84}</string>
+			<key>textureRect</key>
+			<string>{{99, 1},{84, 84}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>btn_sound_off</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{32, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 32}</string>
+			<key>textureRect</key>
+			<string>{{167, 87},{32, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>btn_sound_on</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{22, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{22, 32}</string>
+			<key>textureRect</key>
+			<string>{{69, 99},{22, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>ic_maxbet</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{32, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 32}</string>
+			<key>textureRect</key>
+			<string>{{167, 121},{32, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>22lqnZQStKwbp2itKv/jia</string>
+		<key>textureFileName</key>
+		<string>22lqnZQStKwbp2itKv/jia</string>
+	</dict>
+</dict>
+</plist>

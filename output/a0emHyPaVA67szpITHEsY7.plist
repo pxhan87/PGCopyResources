@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>click_a</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{198, 198}</string>
+			<key>spriteSourceSize</key>
+			<string>{198, 198}</string>
+			<key>textureRect</key>
+			<string>{{1, 1},{198, 198}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>click_b</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{170, 170}</string>
+			<key>spriteSourceSize</key>
+			<string>{170, 170}</string>
+			<key>textureRect</key>
+			<string>{{395, 1},{170, 170}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>click_c</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{192, 192}</string>
+			<key>spriteSourceSize</key>
+			<string>{192, 192}</string>
+			<key>textureRect</key>
+			<string>{{201, 1},{192, 192}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>a0emHyPaVA67szpITHEsY7</string>
+		<key>textureFileName</key>
+		<string>a0emHyPaVA67szpITHEsY7</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>feature_fs</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{443, 89}</string>
+			<key>spriteSourceSize</key>
+			<string>{443, 89}</string>
+			<key>textureRect</key>
+			<string>{{676, 1},{443, 89}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>free_spins_won</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{673, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{673, 106}</string>
+			<key>textureRect</key>
+			<string>{{1, 1},{673, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>start_button_off</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{180, 53}</string>
+			<key>spriteSourceSize</key>
+			<string>{180, 53}</string>
+			<key>textureRect</key>
+			<string>{{1121, 1},{180, 53}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>start_button_on</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{180, 53}</string>
+			<key>spriteSourceSize</key>
+			<string>{180, 53}</string>
+			<key>textureRect</key>
+			<string>{{1121, 56},{180, 53}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>43FePSsu9A5YQJxJNv9ot2</string>
+		<key>textureFileName</key>
+		<string>43FePSsu9A5YQJxJNv9ot2</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bw_coin_00</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{156, 148}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 148}</string>
+			<key>textureRect</key>
+			<string>{{317, 1},{156, 148}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_coin_01</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{156, 128}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 128}</string>
+			<key>textureRect</key>
+			<string>{{317, 301},{156, 128}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_coin_02</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{156, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 96}</string>
+			<key>textureRect</key>
+			<string>{{1, 475},{156, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_coin_03</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{156, 116}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 116}</string>
+			<key>textureRect</key>
+			<string>{{159, 455},{156, 116}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_coin_04</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{156, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 152}</string>
+			<key>textureRect</key>
+			<string>{{1, 321},{156, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_coin_05</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{156, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 158}</string>
+			<key>textureRect</key>
+			<string>{{1, 1},{156, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_coin_06</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{156, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 152}</string>
+			<key>textureRect</key>
+			<string>{{159, 161},{156, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_coin_07</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{156, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 138}</string>
+			<key>textureRect</key>
+			<string>{{159, 315},{156, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_coin_08</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{154, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{154, 96}</string>
+			<key>textureRect</key>
+			<string>{{475, 1},{154, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_coin_09</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{156, 128}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 128}</string>
+			<key>textureRect</key>
+			<string>{{317, 431},{156, 128}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_coin_10</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{156, 148}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 148}</string>
+			<key>textureRect</key>
+			<string>{{317, 151},{156, 148}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_coin_11</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{156, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 158}</string>
+			<key>textureRect</key>
+			<string>{{1, 161},{156, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_coin_12</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{156, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{156, 158}</string>
+			<key>textureRect</key>
+			<string>{{159, 1},{156, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>1aw1/QemlEvLiaAAADWBz0</string>
+		<key>textureFileName</key>
+		<string>1aw1/QemlEvLiaAAADWBz0</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,81 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "scatter_controller",
+      "data": { "__id__": 1 }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "scatter_controller",
+      "_level": 2,
+      "_components": [
+        {
+          "__type__": "da76dFjg2dO9p5AGCxQEXiN",
+          "node": { "__id__": 1 },
+          "scatterEffectPrefab": { "__uuid__": "e8zumSDl1J4ITYlptNFpdN" }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": { "__id__": 1 },
+        "asset": { "__id__": 0 },
+        "fileId": "afbfI9tU1KUYtdqz/zT3Hg"
+      },
+      "_contentSize": { "__type__": "cc.Size", "width": 1080, "height": 894 },
+      "_anchorPoint": { "__type__": "cc.Vec2", "x": 0.5 },
+      "_position": { "__type__": "cc.Vec3", "y": -100 }
+    }
+  ],
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "scatter_effect_controller",
+      "data": { "__id__": 1 }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "scatter_effect_controller",
+      "_children": [{ "__id__": 2 }],
+      "_level": 1,
+      "_components": [
+        {
+          "__type__": "e7f0fiLMbNI773leDa2kk9D",
+          "node": { "__id__": 1 },
+          "spine": { "__id__": 3 }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": { "__id__": 1 },
+        "asset": { "__uuid__": "e8zumSDl1J4ITYlptNFpdN" },
+        "fileId": "86WzUGIVRC2qQ8/9VPFZAn"
+      },
+      "_contentSize": { "__type__": "cc.Size", "width": 180, "height": 149 },
+      "_anchorPoint": { "__type__": "cc.Vec2" }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "scatter_spine",
+      "_parent": { "__id__": 1 },
+      "_level": 2,
+      "_components": [{ "__id__": 3 }],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": { "__id__": 1 },
+        "asset": { "__uuid__": "e8zumSDl1J4ITYlptNFpdN" },
+        "fileId": "30DC1bh7dKWKrqx8qD1Dqp"
+      },
+      "_contentSize": { "__type__": "cc.Size", "width": 183, "height": 179.65 },
+      "_position": { "__type__": "cc.Vec3", "x": 90, "y": 74.5 }
+    },
+    {
+      "__type__": "sp.Skeleton",
+      "node": { "__id__": 2 },
+      "_preCacheMode": 0,
+      "loop": false,
+      "_animationName": "win",
+      "_playTimes": 1
+    }
+  ]
+]

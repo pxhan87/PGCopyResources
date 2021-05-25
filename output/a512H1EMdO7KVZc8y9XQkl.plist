@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bw_rainbow_04</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{1, 1},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_05</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{503, 1},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_06</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{1005, 1},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_07</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{1, 327},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_12</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{503, 327},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_13</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{1005, 327},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_14</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{1, 653},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_15</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{503, 653},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_21</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{1005, 653},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_22</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{1, 979},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_23</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{503, 979},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_24</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 502}</string>
+			<key>textureRect</key>
+			<string>{{1005, 979},{324, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_29</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{1, 1305},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_30</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{503, 1305},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bw_rainbow_31</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{324, 500}</string>
+			<key>spriteSourceSize</key>
+			<string>{324, 500}</string>
+			<key>textureRect</key>
+			<string>{{1005, 1305},{324, 500}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>a512H1EMdO7KVZc8y9XQkl</string>
+		<key>textureFileName</key>
+		<string>a512H1EMdO7KVZc8y9XQkl</string>
+	</dict>
+</dict>
+</plist>

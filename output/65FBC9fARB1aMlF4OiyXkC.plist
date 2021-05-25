@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>fast_spin_vfx_a_00</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{61, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{61, 502}</string>
+			<key>textureRect</key>
+			<string>{{200, 505},{61, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fast_spin_vfx_a_01</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{63, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{63, 502}</string>
+			<key>textureRect</key>
+			<string>{{1, 271},{63, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fast_spin_vfx_a_02</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{53, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{53, 502}</string>
+			<key>textureRect</key>
+			<string>{{503, 505},{53, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fast_spin_vfx_a_03</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{53, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{53, 502}</string>
+			<key>textureRect</key>
+			<string>{{558, 505},{53, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fast_spin_vfx_a_04</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{53, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{53, 502}</string>
+			<key>textureRect</key>
+			<string>{{574, 1},{53, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fast_spin_vfx_a_05</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{55, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{55, 502}</string>
+			<key>textureRect</key>
+			<string>{{446, 505},{55, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fast_spin_vfx_a_06</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{57, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{57, 502}</string>
+			<key>textureRect</key>
+			<string>{{387, 505},{57, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fast_spin_vfx_a_07</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{63, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{63, 502}</string>
+			<key>textureRect</key>
+			<string>{{1, 336},{63, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fast_spin_vfx_a_08</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{65, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{65, 502}</string>
+			<key>textureRect</key>
+			<string>{{1, 70},{65, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fast_spin_vfx_a_09</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{67, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 502}</string>
+			<key>textureRect</key>
+			<string>{{1, 1},{67, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fast_spin_vfx_a_10</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{67, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 502}</string>
+			<key>textureRect</key>
+			<string>{{505, 1},{67, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fast_spin_vfx_a_11</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{65, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{65, 502}</string>
+			<key>textureRect</key>
+			<string>{{1, 137},{65, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fast_spin_vfx_a_12</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{67, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 502}</string>
+			<key>textureRect</key>
+			<string>{{1, 505},{67, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fast_spin_vfx_a_13</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{65, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{65, 502}</string>
+			<key>textureRect</key>
+			<string>{{1, 204},{65, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fast_spin_vfx_a_14</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{61, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{61, 502}</string>
+			<key>textureRect</key>
+			<string>{{263, 505},{61, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fast_spin_vfx_a_15</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{63, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{63, 502}</string>
+			<key>textureRect</key>
+			<string>{{1, 401},{63, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fast_spin_vfx_a_16</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{63, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{63, 502}</string>
+			<key>textureRect</key>
+			<string>{{70, 505},{63, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fast_spin_vfx_a_17</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{63, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{63, 502}</string>
+			<key>textureRect</key>
+			<string>{{135, 505},{63, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fast_spin_vfx_a_18</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{59, 502}</string>
+			<key>spriteSourceSize</key>
+			<string>{59, 502}</string>
+			<key>textureRect</key>
+			<string>{{326, 505},{59, 502}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>65FBC9fARB1aMlF4OiyXkC</string>
+		<key>textureFileName</key>
+		<string>65FBC9fARB1aMlF4OiyXkC</string>
+	</dict>
+</dict>
+</plist>
